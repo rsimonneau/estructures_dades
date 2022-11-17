@@ -2,6 +2,8 @@
 Exercicis SPRINT 2
 + Tasca M2 T01
 
+HTML: file:///C:/03%20Ricard/IT%20ACADEMY/01%20Data%20Science/Sprint%202.%20Sprint%202.%20B%C3%A0sics%20de%20Python/Tasca%20M2%20T01/Sprint%202%20-%20Tasca%20M2%20T01.html
+
     - Exercici 1
     
     ![image](https://user-images.githubusercontent.com/117864143/202569099-d105b490-c642-4840-89df-4e9feb4282c2.png)
